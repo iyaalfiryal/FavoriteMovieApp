@@ -19,7 +19,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String AUTHORITY = "com.firyal.moviecatalogue";
+    public static final String AUTHORITY = "com.firyal.moviecatalogue.provider";
     public static final Uri URI_MOVIE = Uri.parse("content://" + AUTHORITY + "/" + "tb_movie");
     private static final int LOADER = 1;
 
