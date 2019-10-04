@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FavoriteMovieApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="time">TIME</string>
+    <string name="judul">TITLE</string>
+    <string name="language">language</string>
+</resources>
